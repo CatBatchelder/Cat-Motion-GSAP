@@ -1,10 +1,15 @@
 /* =============
     Demo
 ============= */
+#star-container{
+    display: flex;
+    justify-items: center;
+    align-items: center;
 
-#star{
-    font-size: 40px;
-    color: blue;
-    padding: 100px;
-   // border: 3px red solid;
+    #star{
+        font-size: 40px;
+        color: #0000ff;
+        padding: 100px;
+       // border: 3px red solid;
+    }
 }
