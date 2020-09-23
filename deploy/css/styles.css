@@ -426,16 +426,8 @@ textarea {
 /* =============
     Demo
 ============= */
-.box {
-  height: 200px;
-  width: 200px;
-  margin-bottom: 300px;
-}
-
-.red-box {
-  background-color: #f13232;
-}
-
-.blue-box {
-  background-color: #167cd0;
+#star {
+  font-size: 40px;
+  color: blue;
+  padding: 100px;
 }

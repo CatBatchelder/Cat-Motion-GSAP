@@ -2,16 +2,9 @@
     Demo
 ============= */
 
-.box{
-    height: 200px;
-    width: 200px;
-    margin-bottom: 300px;
-}
-
-.red-box{
-    background-color: $red;
-}
-
-.blue-box{
-    background-color: $blue;
+#star{
+    font-size: 40px;
+    color: blue;
+    padding: 100px;
+   // border: 3px red solid;
 }
