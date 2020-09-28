@@ -1,9 +1,9 @@
-import {gsap} from "gsap";
+// import {gsap} from "gsap";
 
-var starTimeline = gsap.timeline({repeat: -1});
+// var starTimeline = gsap.timeline({repeat: -1});
 
-starTimeline.to("#star", {duration: 4, color: "#ffa500", rotation: 360, x: "500px"})
-            .to("#star", {duration: 4, color: "#0000ff", rotation: -360, x: "0px"});
+// starTimeline.to("#star", {duration: 4, color: "#ffa500", rotation: 360, x: "500px"})
+//             .to("#star", {duration: 4, color: "#0000ff", rotation: -360, x: "0px"});
 
 
 
