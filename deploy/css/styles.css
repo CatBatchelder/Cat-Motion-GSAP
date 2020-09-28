@@ -426,13 +426,28 @@ textarea {
 /* =============
     Demo
 ============= */
-#star-container {
-  display: flex;
-  justify-items: center;
-  align-items: center;
+#star-grid {
+  display: grid;
+  grid-template-columns: auto 75% auto;
+  grid-template-areas: ". stars .";
+  background-color: black;
 }
-#star-container #star {
+#star-grid #star-container {
+  grid-area: stars;
+  height: 800px;
+}
+#star-grid #star-container #star1 {
   font-size: 40px;
-  color: #0000ff;
+  color: #ff8484;
+  padding: 100px;
+}
+#star-grid #star-container #star2 {
+  font-size: 40px;
+  color: #fffdd0;
+  padding: 100px;
+}
+#star-grid #star-container #star3 {
+  font-size: 40px;
+  color: #cee8f0;
   padding: 100px;
 }
