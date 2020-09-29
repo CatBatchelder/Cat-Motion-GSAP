@@ -7,12 +7,12 @@
 
 
 
-// gsap.to("#star", {
+// gsap.to("#star2", {
 //     //alpha: 0,
 //     duration: 4,
-//     repeat: -1,
+//     // repeat: -1,
 //     color: "#ffa500",
-//     rotation: 365,
+//     rotation: 360,
 //     x: "500px"
 //     //transformOrigin:"50% 50%"
 // });
