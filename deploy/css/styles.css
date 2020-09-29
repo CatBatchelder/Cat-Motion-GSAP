@@ -434,20 +434,20 @@ textarea {
 }
 #star-grid #star-container {
   grid-area: stars;
-  height: 800px;
+  height: 1000px;
 }
 #star-grid #star-container #star1 {
-  font-size: 40px;
+  font-size: 100px;
   color: #ff8484;
   padding: 100px;
 }
 #star-grid #star-container #star2 {
-  font-size: 40px;
+  font-size: 100px;
   color: #fffdd0;
   padding: 100px;
 }
 #star-grid #star-container #star3 {
-  font-size: 40px;
+  font-size: 100px;
   color: #cee8f0;
   padding: 100px;
 }

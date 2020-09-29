@@ -2,6 +2,8 @@ import {gsap} from "gsap";
 
 console.log("is star 1 working");
 
+// import {starSpeed} from "./stars/animationSpeed.js"
+
 
 // export function star1Animation(){
 //     var tl = gsap.timeline();
